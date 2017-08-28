@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "/Volumes/MAC DATA/Repo/GitHub/rice-university"
+		}
+	],
+	"settings": {
+		"sync.gist": "a24916909a77ca104222e57a7e132ab3",
+		"sync.lastUpload": "2017-08-28T14:43:12.166Z",
+		"sync.autoDownload": true,
+		"sync.autoUpload": true,
+		"sync.lastDownload": "2017-08-28T14:32:51.794Z",
+		"sync.forceDownload": false,
+		"sync.anonymousGist": false,
+		"sync.host": "",
+		"sync.pathPrefix": "",
+		"sync.quietSync": false,
+		"sync.askGistName": false,
+		"workbench.iconTheme": "material-icon-theme"
+	}
+}
