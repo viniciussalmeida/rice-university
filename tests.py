@@ -36,7 +36,7 @@ def test_pylab():
     except ImportError:
             print("Could not import 'matplotlib/pylab' -> failed")
             return None
-    # Creata plot for testing purposes
+    # Create plot for testing purposes
     xvalues = [i * 0.1 for i in range(100)]
     yvalues = [math.sin(x) for x in xvalues]
     pylab.plot(xvalues, yvalues, "-o", label="sin(x)")
